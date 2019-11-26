@@ -1,0 +1,84 @@
+<!DOCTYPE HTML>
+<!--
+	About
+	
+-->
+<html>
+	<head>
+		<title>About</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="subpage">
+
+		<!-- Header -->
+			<header id="header">
+				<div class="logo"><a href="index.html">About <span></span></a></div>
+				<a href="#menu">Menu</a>
+			</header>
+
+		<!-- Nav -->
+			<nav id="menu">
+				<ul class="links">
+					<li><a href="index.html">Home</a></li>
+					<li><a href="generic.html">About</a></li>
+					<li><a href="elements.html">Solutions</a></li>
+				</ul>
+			</nav>
+
+		<!-- One -->
+			<section id="One" class="wrapper style3">
+				<div class="inner">
+					<header class="align-center">
+						<p>About</p>
+						<h2>Save Our Oceans</h2>
+					</header>
+				</div>
+			</section>
+
+		<!-- Two -->
+			<section id="two" class="wrapper style2">
+				<div class="inner">
+					<div class="box">
+						<div class="content">
+							<header class="align-center">
+								<p>Ocean Plastic Pollution</p>
+								<h2>A Global Tradegy for Our Oceans and Sea Life</h2>
+							</header>
+							<p>We are turning our beautiful Ocean into a plastic soup. About 8 million tonnes of plastic enters the sea every year, and at this rate we face a future with more plastic in the Ocean than fish by 2050. Our plastic addiction and waste mismanagement is condemning countless marine birds and animals to death by entanglement or poisoning, and even leading to chemical contamination of the fish we eat. The vast swirls of plastic rubbish visible on the sea surface - horrifying as they are - represent just the tip of the iceberg. What lies beneath are the masses of microbeads and broken-down particles of plastic that are easily ingested by sea creatures, and impossible to remove. The urgently needed solution calls for a combination of enhanced awareness, reduced plastic use, and massively improved waste management. The most effective way to have less plastic in the Ocean is to use less plastic in the first place.</p>
+
+							<p>In the first decade of this century, we made more plastic than all the plastic in history up to the year 2000. And every year, billions of pounds of more plastic end up in the world's oceans. Studies estimate there are now 15-51 trillion pieces of plastic in the world's oceans - from the equator to the poles, from Arctic ice sheets to the sea floor. Not one square mile of surface ocean anywhere on earth is free of plastic pollution.</p>
+
+							<p>We need urgent action to address the global plastic pollution epidemic.
+
+Unfortunately, plastic is so durable that the EPA reports "every bit of plastic ever made still exists." All five of the Earth's major ocean gyres are inundated with plastic pollution. The largest one has been dubbed the Great Pacific Garbage Patch. </p>
+						</div>
+					</div>
+				</div>
+			</section>
+
+		<!-- Footer -->
+			<footer id="footer">
+				<div class="container">
+					<ul class="icons">
+						<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+						<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+						<li><a href="#" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
+					</ul>
+				</div>
+				<div class="copyright">
+					&copy; Marina Galitskaia, SBCC 2019
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
